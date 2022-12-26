@@ -1,4 +1,4 @@
-# PROJECT NAME
+# DUMMY TEXT GENERATOR
 
 ### About
 
